@@ -1,0 +1,12 @@
+# Compiled binaries
+2048
+2048.exe
+*.o
+*.out
+
+# High score file (generated at runtime)
+highscore.txt
+
+# OS files
+.DS_Store
+Thumbs.db
