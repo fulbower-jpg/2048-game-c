@@ -2,16 +2,9 @@
 
 A console-based implementation of the classic **2048 tile-merging puzzle game**, written in C as a first-semester university project for the **Programming Fundamentals** course.
 
-## 👥 Team Members
+## 👤 Author
 
-| Name | Student ID |
-|------|-----------|
-| Daniyal | IU02-0225-0972 |
-| Hamza Ali Asghar | IU02-0125-0661 |
-| Aman Mushtaq | IU02-0225-0967 |
-| Ebaad Arif Khan | IU02-0225-0982 |
-| S.M Mohib Ali Naqvi | IU02-0125-0592 |
-| Omer Wehlie | IU02-0225-0971 |
+**Aman Mushtaq**
 
 ## 📖 About the Project
 
